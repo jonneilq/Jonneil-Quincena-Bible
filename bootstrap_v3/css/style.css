@@ -1,0 +1,26 @@
+.fnt {
+	font-family: Tolkien;
+}
+
+nav > li, a, a:hover, a:visited, a:link, a:active {
+	text-decoration: none;
+}
+
+.fnt {
+	font-family: Tolkien;
+	font-size: 25px;
+}
+
+.pdg {
+	padding-bottom: 20px;
+}
+
+.fix {
+	position: fixed ;
+	background: white;
+	z-index: 999;
+}
+
+.top {
+	margin-top: 200px;
+}
